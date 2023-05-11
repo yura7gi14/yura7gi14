@@ -5,5 +5,5 @@
 
 <p align="left"> 
   <img alt = "Top Langs" height = "165px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yura7gi14&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt = "github stats" height = "165px" src = "https://github-readme-stats.vercel.app/api?username=yura7gi14&show_icons=true&theme=tokyonight" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura7gi14&theme=blueberry&show_icons=true)
 </p>
