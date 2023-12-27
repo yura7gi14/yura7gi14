@@ -8,4 +8,4 @@
   <img alt="github stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=yura7gi14&theme=blueberry&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yura7gi14&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yura7gi14&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
